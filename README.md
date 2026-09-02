@@ -1,3 +1,1 @@
-distance-calculator/
-├── distance_calculator.py    (or .js or .cpp)
-└── README.md
+ "Added distance calculator with comments and README."
